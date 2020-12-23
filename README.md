@@ -1,4 +1,4 @@
-#Stevan Cunningham - @stnnnghm
+# Stevan Cunningham - @stnnnghm
 
 Hi there, **I'm Stevan** - I'm a software engineer with a passion for Golang and a few other cool technologies. My most recent Go project involved maintaining a giant monorepo that contained almost all of the company's scientific collections.. Before that I worked to fight bots at the largest ticket vendor in the US, and I've even developed a new credit card processor for an awesome financial firm.
 
