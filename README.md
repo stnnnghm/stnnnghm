@@ -6,7 +6,7 @@ Before coding, I was in the US Air Force for 9 years. It's instilled a sense of 
 
 I live by the mantra *'Work Hard, Play Hard'*. My hobbies include: _**coding (duh), working out, learning cool stuff, and picking up heavy things at the gym**_.
 
-[![Stevan's github stats](https://github-readme-stats.vercel.app/api?username=stnnnghm&show_icons=true&theme=synthwave)
+[![Stevan's github stats](https://github-readme-stats.vercel.app/api?username=stnnnghm&show_icons=true&theme=cobalt)
 
 <!--
 **stnnnghm/stnnnghm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
