@@ -13,9 +13,9 @@ Hi there :wave: **I'm Stevan** - I'm a software engineer with a passion for Gola
 ### A Little Bit About Me..
 
 My most recent Go projects involved: 
-- Maintaining a giant monorepo that contained most of the [company's](https://www.bayer.com/en/) scientific data :nerd_face:
+- Maintaining a _giant_ monorepo containing most of the [company's](https://www.bayer.com/en/) scientific data collections :nerd_face:
 - Fighting bots at the [largest ticket vendor](https://www.ticketmaster.com/) in the US :robot:
-- I've even developed a new credit card processor for an [awesome financial firm](https://www.americanexpress.com/) :credit_card:
+- I've even developed a new credit processing platform for an [awesome financial firm](https://www.americanexpress.com/) :credit_card:
 
 Before coding, I was in the US Air Force :us: for 9 years. It left me with a sense of duty, and attention to detail that I believe helps me to be a better developer overall. I enjoy throwing myself into my work, and don't believe in doing things halfway. 
 
@@ -32,18 +32,3 @@ My hobbies include:
 Find me on 
 - [LinkedIn](https://linkedin.com/in/stevancunningham)
 - [Instagram](https://instagram.com/nah.mean_jah.feel) 
-
-<!--
-**stnnnghm/stnnnghm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
