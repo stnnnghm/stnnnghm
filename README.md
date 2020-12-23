@@ -6,9 +6,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-stnnnghm-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:stnnnghm@gmail.com)](mailto:stnnnghm@gmail.com)
 <!--[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me) -->
 
-[![Stevan's github stats](https://github-readme-stats.vercel.app/api?username=stnnnghm&show_icons=true&theme=cobalt)
+Hi there, **I'm Stevan** - I'm a software engineer with a passion for Golang and a few other cool technologies. 
+![Stevan's github stats](https://github-readme-stats.vercel.app/api?username=stnnnghm&show_icons=true&theme=cobalt)
 
-Hi there, **I'm Stevan** - I'm a software engineer with a passion for Golang and a few other cool technologies. My most recent Go project involved maintaining a giant monorepo that contained almost all of the company's scientific collections.. Before that I worked to fight bots at the largest ticket vendor in the US, and I've even developed a new credit card processor for an awesome financial firm.
+My most recent Go project involved maintaining a giant monorepo that contained almost all of the company's scientific collections.. Before that I worked to fight bots at the largest ticket vendor in the US, and I've even developed a new credit card processor for an awesome financial firm.
 
 Before coding, I was in the US Air Force for 9 years. It's instilled a sense of duty, and attention to detail that I believe helps me to be a better developer overall. I enjoy throwing myself into my work, and don't believe in submitting work that does not meet the standard.
 
