@@ -1,5 +1,5 @@
 # Stevan Cunningham - @stnnnghm
-[![Linkedin Badge](https://img.shields.io/badge/-stevanmcunningham-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stevanmcunningham/)](https://www.linkedin.com/in/stevanmcunningham/)
+[![Linkedin Badge](https://img.shields.io/badge/-stevancunningham-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stevancunningham/)](https://www.linkedin.com/in/stevancunningham/)
 [![Medium Badge](https://img.shields.io/badge/-@stnnnghm-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@stnnnghm)](https://medium.com/@stnnnghm)
 [![Twitter Badge](https://img.shields.io/badge/-@LORDstevan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/LORDstevan)](https://twitter.com/LORDstevan)
 [![Instagram Badge](https://img.shields.io/badge/-@nah.mean_jah.feel-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/nah.mean_jah.feel/)](https://instagram.com/nah.mean_jah.feel)
