@@ -26,7 +26,7 @@ My hobbies include:
 - _Learning cool stuff_ :telescope:
 - _Picking up heavy things at the gym_ :weight_lifting_man:
 - _Spending time with my wonderful GF_ :couple_with_heart:
-- _Pushing myself through tough obstacles that life has and will continue to present_
+- _Pushing myself through tough obstacles that life has and will continue to present_ :men_wrestling:
 
 ### Get In Touch
 
