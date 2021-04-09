@@ -13,8 +13,8 @@ Hi there :wave: **I'm Stevan** - I'm a software engineer with a passion for Gola
 ### A Little Bit About Me..
 
 My most recent Go projects involved: 
-- Maintaining a _giant_ monorepo containing most of the [company's](https://www.bayer.com/en/) scientific data collections :nerd_face:
-- Fighting bots at the [largest ticket vendor](https://www.ticketmaster.com/) in the US :robot:
+- Maintaining a _golang_ monorepo containing most of the [company's](https://www.bayer.com/en/) scientific data collections :nerd_face:
+- Maintaing a dynamic ticketing application for the [largest ticket vendor](https://www.ticketmaster.com/) in the US :robot:
 - I've even helped develop a new credit processing platform for an [awesome financial firm](https://www.americanexpress.com/) :credit_card:
 
 Before coding, I was in the US Air Force :us: for 9 years. It left me with a sense of duty, and attention to detail that I believe helps me to be a better developer overall. I enjoy throwing myself into my work, and don't believe in doing things halfway. 
@@ -26,6 +26,7 @@ My hobbies include:
 - _Learning cool stuff_ :telescope:
 - _Picking up heavy things at the gym_ :weight_lifting_man:
 - _Spending time with my wonderful GF_ :couple_with_heart:
+- _Pushing myself through tough obstacles that life has and will continue to present_
 
 ### Get In Touch
 
