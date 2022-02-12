@@ -13,6 +13,7 @@ Hi there :wave: **I'm Stevan** - I'm a software engineer with a passion for Gola
 ### A Little Bit About Me..
 
 My most recent Go projects involved: 
+- Developing microservices and APIs for one of the world's largest [computer manufacturers](https://www.hp.com) :computer:
 - Maintaining a _golang_ monorepo containing most of the [company's](https://www.bayer.com/en/) scientific data collections :nerd_face:
 - Maintaing a dynamic ticketing application for the [largest ticket vendor](https://www.ticketmaster.com/) in the US :robot:
 - I've even helped develop a new credit processing platform for an [awesome financial firm](https://www.americanexpress.com/) :credit_card:
@@ -25,8 +26,7 @@ My hobbies include:
 - _Coding (duh)_ :desktop_computer:
 - _Learning cool stuff_ :telescope:
 - _Picking up heavy things at the gym_ :weight_lifting_man:
-- _Spending time with my wonderful GF_ :couple_with_heart:
-- _Pushing myself through tough obstacles that life has and will continue to present_ :men_wrestling:
+- _Anything and everything jiu jitsu_ :men_wrestling:
 
 ### Get In Touch
 
