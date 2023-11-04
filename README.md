@@ -14,9 +14,9 @@ Hi there :wave: **I'm Stevan** - I'm a software engineer with a passion for Gola
 
 My most recent Go projects involved: 
 - Developing microservices and APIs for one of the world's largest [computer manufacturers](https://www.hp.com) :computer:
-- Maintaining a _golang_ monorepo containing most of the [company's](https://www.bayer.com/en/) scientific data collections :nerd_face:
-- Maintaing a dynamic ticketing application for the [largest ticket vendor](https://www.ticketmaster.com/) in the US :robot:
-- I've even helped develop a new credit processing platform for an [awesome financial firm](https://www.americanexpress.com/) :credit_card:
+- Nurturing a giant _golang_ monorepo containing most of the [company's](https://www.bayer.com/en/) scientific data collections :nerd_face:
+- Maintaining (see: [debugging](https://en.wikipedia.org/wiki/Debugging)) both front and back-end of the most dynamic ticketing application at the [largest ticket vendor](https://www.ticketmaster.com/) in the US :robot:
+- I even developed a new credit rewards platform for an [awesome financial conglomerate](https://developer.americanexpress.com/products/network-loyalty/overview) in its first European market :credit_card:
 
 Before coding, I was in the US Air Force :us: for 9 years. It left me with a sense of duty, and attention to detail that I believe helps me to be a better developer overall. I enjoy throwing myself into my work, and don't believe in doing things halfway. 
 
